@@ -703,7 +703,7 @@ MonoBehaviour:
   - {fileID: 11586326}
   machineCoin: 0
   currentCoin: 5000
-  currentThirsty: 100
+  currentThirsty: 150
   currentHappy: 0
   drinkfullText: {fileID: 387901802}
   drinkFullPopup: {fileID: 1191602574}
